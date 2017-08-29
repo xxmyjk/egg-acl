@@ -26,6 +26,8 @@ Description here.
 
 ## 依赖说明
 
+## `hold on, this package will be update soon.`
+
 ### 依赖的 egg 版本
 
 egg-acl 版本 | egg 1.x
